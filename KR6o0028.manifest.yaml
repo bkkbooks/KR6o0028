@@ -1,0 +1,63 @@
+canonical_identifier: bkk:krp/KR6o0028/v1
+canonical_location: https://kanripo.org/bkk/KR6o0028/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 因明入正理論直疏
+  identifiers:
+    alt_id:
+    - X53n0858
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X53/X53n0858.xml
+    old_id: X53n0858
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0028_000.yaml, hash: 'sha256:6652617e90f4c8028755689a301de412798d3b199e7ff5692a88172c46ec5487'}
+  - {seq: 1, filename: KR6o0028_001.yaml, hash: 'sha256:96e9396042b06f7149ea803b650ea2690374e605b8b89525b5c73013624e39d2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0028_000.markers.yaml, hash: 'sha256:6e808e6fb679eb52efa847d777704c7846a73707f6c5bd67f4a1922c69f4caf1'}
+  - {seq: 1, role: markers, filename: assets/KR6o0028_001.markers.yaml, hash: 'sha256:0dc4626966aa66517fef34440acd20cc0df7265e5dbe38b7b0c56b1342e18db1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6o0028_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 858-A 因明入正理論直疏敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6o0028_X_000-mulu-2
+    span:
+    - front
+    - 267
+    - 267
+  label: 因明入正理論直疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0028_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10965
+  label: 因明入正理論直疏
+  type: juan
+  level: 1
+hash: sha256:289bfa0bc32be4d278e3cb9db01461ce7842aecffb4d0d47f094bb5816402ce1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
