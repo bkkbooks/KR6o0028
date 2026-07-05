@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6o0028_000.yaml, hash: 'sha256:6652617e90f4c8028755689a301de412798d3b199e7ff5692a88172c46ec5487'}
-  - {seq: 1, filename: KR6o0028_001.yaml, hash: 'sha256:96e9396042b06f7149ea803b650ea2690374e605b8b89525b5c73013624e39d2'}
+  - {seq: 0, filename: KR6o0028_000.yaml, hash: 'sha256:1ac95c64d938740ea289bd6dbd73bfb4469e9b1b7bcb3dc36a1e65f13aba5738'}
+  - {seq: 1, filename: KR6o0028_001.yaml, hash: 'sha256:ab608297be6518e810fde5823eeae94e3ffb43de51d38b412a3c881370046487'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0028_000.markers.yaml, hash: 'sha256:6e808e6fb679eb52efa847d777704c7846a73707f6c5bd67f4a1922c69f4caf1'}
-  - {seq: 1, role: markers, filename: assets/KR6o0028_001.markers.yaml, hash: 'sha256:0dc4626966aa66517fef34440acd20cc0df7265e5dbe38b7b0c56b1342e18db1'}
+  - {seq: 0, role: markers, filename: assets/KR6o0028_000.markers.yaml, hash: 'sha256:6853a83c162be378302b17cf22015fe062d7029209e0ed155113acb14bcdc419'}
+  - {seq: 1, role: markers, filename: assets/KR6o0028_001.markers.yaml, hash: 'sha256:59a928161cee1196f09c98873485445c522aa1c2bd0b4b79fa9685f76c6222df'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 因明入正理論直疏
   type: juan
   level: 1
-hash: sha256:289bfa0bc32be4d278e3cb9db01461ce7842aecffb4d0d47f094bb5816402ce1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b029f7be8466f71e78c2d1dfe048324d534cf6ca7eb131dabc627e4870804baa
