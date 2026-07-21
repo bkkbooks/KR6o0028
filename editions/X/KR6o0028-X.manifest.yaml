@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6o0028_000-X.yaml, hash: 'sha256:1ac95c64d938740ea289bd6dbd73bfb4469e9b1b7bcb3dc36a1e65f13aba5738'}
+  - {seq: 0, filename: KR6o0028_000-X.yaml, hash: 'sha256:e4097aa77de8c01cda58dca4d34aa385bb0f7026fb7618fb98ef97f2921f2e4d'}
   - {seq: 1, filename: KR6o0028_001-X.yaml, hash: 'sha256:ab608297be6518e810fde5823eeae94e3ffb43de51d38b412a3c881370046487'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0028_000-X.markers.yaml, hash: 'sha256:8ce1f95cb77239ab4d2fd514e584c6a4f26b71f04d579affb2ea3d6a5b81ce52'}
+  - {seq: 0, role: markers, filename: assets/KR6o0028_000-X.markers.yaml, hash: 'sha256:a5ee243c6ef5a9dae3dede023c8701bcc1de7ff7fbfd4ca36a126c00cd35f101'}
   - {seq: 1, role: markers, filename: assets/KR6o0028_001-X.markers.yaml, hash: 'sha256:38216de5bcdb997013664b44fb280e1e9e1703ad21b88a5f5249a330ef44c662'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6o0028_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 858-A 因明入正理論直疏敘
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0028_X_000-mulu-2
     span:
-    - front
+    - body
     - 267
     - 267
   label: 因明入正理論直疏
@@ -55,4 +55,4 @@ table_of_contents:
   label: 因明入正理論直疏
   type: juan
   level: 1
-hash: sha256:d7f77c950b3fddd4393c8de79f46869ccf29eed01ff4d113a33026dd922fe2e6
+hash: sha256:ef933135e1deaa30db1c55705a5ab49d0da9b56169744119f84d2d679cf072cd

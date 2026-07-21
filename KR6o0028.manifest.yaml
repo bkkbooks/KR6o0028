@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6o0028_000.yaml, hash: 'sha256:8a6dedabe2f4d55840ac6cff1446b0e27167dd28903f1b236ef4e6a6d32da032'}
+  - {seq: 0, filename: KR6o0028_000.yaml, hash: 'sha256:3da73152025f4fb0f1d896f9349db688e481297b335d086fa0b5b82573d12a19'}
   - {seq: 1, filename: KR6o0028_001.yaml, hash: 'sha256:5dd59e48d2c6f663fce878c1f08a9dabcfb9b93c5234de488c0b13e837d94477'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0028_000.markers.yaml, hash: 'sha256:6683bc37c15724ee5ffca81c21491663da58887346555d9e43b6d87778f2d7a7'}
+  - {seq: 0, role: markers, filename: assets/KR6o0028_000.markers.yaml, hash: 'sha256:c114b738377a1a9def439d06934ee6d94db25857cfb17e37b2725d8475b72aba'}
   - {seq: 1, role: markers, filename: assets/KR6o0028_001.markers.yaml, hash: 'sha256:166a92405603c80f2066844ebbfb80f3935756e0d26b97d27e98dfadb2d30e89'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6o0028_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 858-A 因明入正理論直疏敘
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0028_X_000-mulu-2
     span:
-    - front
+    - body
     - 267
     - 267
   label: 因明入正理論直疏
@@ -57,7 +57,7 @@ table_of_contents:
   label: 因明入正理論直疏
   type: juan
   level: 1
-hash: sha256:5dd773bd9c4902a868e954a3953fff3fe5aac56b4fa2f0051ee889e3b9011664
+hash: sha256:37ac5b49198b2f906d8c98461e32874e3e87ed9907679de0daeb60de0d0afd2b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
